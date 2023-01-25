@@ -1,6 +1,4 @@
-[GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/) allow you to easily create a simple website, hosted at `username.github.io`. In this tutorial, I'll show you how to make a single page academic website like this [Example Website](http://amandadoucette.com/example-website/). You won't need to write any code (although you can if you want) - just markdown and possibly some simple HTML.
-
-View the source code for this tutorial [here](https://github.com/amnda-d/academic-website-tutorial) and the source code for the example website [here](https://github.com/amnda-d/example-website).
+Alex Trying to Make a Page based on the tutorial
 
 ## 1. Make a GitHub Account
 
