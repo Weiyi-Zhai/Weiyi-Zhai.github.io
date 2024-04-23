@@ -1,13 +1,14 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Website in progress
 
 #### Email
-sli[at]cumt.edu.cn
+weiyi.zhai@mail.mcgill.ca
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+McGill University, Montreal, Canada 
 
-#### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Carleton College, Northfield, MN - 2020
+
+#### Research Interests
+
