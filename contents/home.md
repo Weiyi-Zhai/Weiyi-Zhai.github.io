@@ -1,15 +1,17 @@
 
 This website is in progress
 
-#### Email
-weiyi.zhai@mail.mcgill.ca
+I am a graduate student in Linguistics at McGill University in Montreal, Canada. 
+
+#### Contact
+weiyi.zhai[at]mail[dot]mcgill[dot]ca
 
 #### Education
 
-McGill University, Montreal, Canada 
-
-Carleton College, Northfield, MN - 2020
+Ph.D. in Linguistics McGill University, Montreal, Canada - present
+B.A. in Cognitive Science, Linguistics, Carleton College, Northfield, MN - 2020
 
 #### Research Interests
 
 Phonetics, Speech Perception, Second Language Acquisition 
+
