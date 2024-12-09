@@ -13,5 +13,6 @@ B.A. in Cognitive Science, Linguistics, Carleton College, Northfield, MN - 2020
 
 #### Research Interests
 
-Phonetics, Speech Perception, Second Language Acquisition 
+Speech Perception, Second Language Acquisition, Individual Differences
+ 
 
