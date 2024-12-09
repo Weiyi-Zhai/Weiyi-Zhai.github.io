@@ -1,5 +1,5 @@
 
-Website in progress
+This website is in progress
 
 #### Email
 weiyi.zhai@mail.mcgill.ca
