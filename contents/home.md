@@ -9,6 +9,7 @@ weiyi.zhai[at]mail[dot]mcgill[dot]ca
 #### Education
 
 Ph.D. in Linguistics McGill University, Montreal, Canada - present
+
 B.A. in Cognitive Science, Linguistics, Carleton College, Northfield, MN - 2020
 
 #### Research Interests
