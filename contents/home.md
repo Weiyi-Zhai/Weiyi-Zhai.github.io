@@ -12,4 +12,4 @@ Carleton College, Northfield, MN - 2020
 
 #### Research Interests
 
-in progress
+Phonetics, Speech Perception, Second Language Acquisition 
