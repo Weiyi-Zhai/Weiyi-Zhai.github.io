@@ -1,3 +1,7 @@
+- (In Prep) **Zhai, W.**, Clayards, M., & Sonderegger, M. Individual differences in the use of phonetic and 
+lexical context across tasks
+- (In Prep)  Conklin, J. T., Dmitrieva, O, Jung, Y. J., & **Zhai, W.** Acoustic characteristics of
+vowel reduction in advanced Spanish-English bilinguals.
 - **Zhai, W.**, & Clayards, M. (2024). Individual differences in the use of phonetic and lexical context 
 across tasks. Proceedings of the 19th Conference on Laboratory Phonology, Seoul, South 
 Korea.
