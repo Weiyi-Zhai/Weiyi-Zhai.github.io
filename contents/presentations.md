@@ -1,4 +1,6 @@
 #### Talks
+- **Zhai, W.**, & Clayards, M. (2025) Individual differences in lexical recruitment during speech perception: evidence from L1 and L2 English speakers. Talk at Tokyo Circle of Phonology (東京音韻論研究会)
+- **Zhai, W.**, & Clayards, M. (2025). Variation in lexical bias in speech perception: individual differences, contrast-specific effects, and the role of L1 background. Talk at Montreal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop 2025, Toronto, Canada
 - Stilwell, Y., **Zhai, W.**, & Honda, C. (2024). Speech and musical context effects in perception. Talk at 
 Montreal-Ottawa-Toronto-Hamilton Phonology/Phonetics Workshop 2024, Montreal, 
 Canada
@@ -10,6 +12,8 @@ Undergraduate Linguistics Symposium, University of Minnesota Twin Cities, Minnea
 - Steinke, S. & **Zhai, W.** (2019) Transparency and Headedness in Processing Compound Words: A 
 Lexical Decision Study. Talk at the Minnesota Undergraduate Linguistics Symposium, University of Minnesota, Twin Cities, Minneapolis, MN
 #### Posters
+- **Zhai, W.** & Clayards, M. (2025) Lexical recruitment across contrasts in Japanese and Mandarin L2 English speakers. Poster presented at Sixth Joint Meeting Acoustical Society of America and Acoustical Society of Japan, Honolulu, HI, USA
+- **Zhai, W.**, & Clayards, M. (2025). Individual Differences in Lexical Recruitment Across Contrasts. Poster presented at the joint 188th Meeting of the Acoustical Society of America and 25th International Congress on Acoustics, New Orleans, LA, USA
 - **Zhai, W.**, & Clayards, M. (2024). Individual differences in the use of phonetic and lexical context 
 across tasks. Poster presented at the 19th Conference on Laboratory Phonology, Seoul, South 
 Korea.
