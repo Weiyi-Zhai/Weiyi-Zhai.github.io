@@ -1,6 +1,4 @@
 
-This website is in progress
-
 I am a graduate student in Linguistics at McGill University in Montreal, Canada. 
 
 #### Contact
