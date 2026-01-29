@@ -1,10 +1,12 @@
 #### McGill University (Course Lecturer)
+- LING 201 Introduction to Linguistics (2025 FA)
 - LING 210 Introduction to Speech Science (2023 SU, 2025 WI) 
 - LING 331 Phonology I (2022 FA)
   
 #### McGill University (Teaching Assistant)
 - LING 331 Phonology I (2021 FA)
-- LING 291 Introduction to Linguistics (2022 WI, 2023 WI, Lead TA 2023 FA) 
+- LING 291 Introduction to Linguistics (2022 WI, 2023 WI, Lead TA 2023 FA)
+- LING 355 Language Acquisition
 
 #### Carleton College (Teaching Assistant) 
 - LING 110 Introduction to Linguistics (2020 WI) 
